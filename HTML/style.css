@@ -1,0 +1,53 @@
+/* body */
+
+body {
+    background-color: #65a0bf;
+}
+
+/* navbar */
+
+.navbar {
+    background-color: #65a0bf;
+    margin: auto 50px;
+}
+
+.navbar-brand {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    letter-spacing: -4.5px;
+    font-size:xx-large;
+}
+
+.nav-item{
+    text-align: right;
+}
+
+/* section */
+
+.container {
+    
+    width: 500px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    margin-bottom: 40px;
+}
+
+p {
+    color: lightgray;
+}
+
+.button2 {
+
+    margin-top: 45px;
+    border-radius: 30px;
+    border : none;
+    padding: 18px;
+    width: 220px;
+    color : #868A88;
+    font-size:smaller; 
+}
