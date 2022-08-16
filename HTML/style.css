@@ -8,15 +8,12 @@ body {
 
 .navbar {
     background-color: #65a0bf;
-    margin: auto 50px;
+    margin: 0px 200px;
 }
 
 .navbar-brand {
     color: white;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 900;
-    letter-spacing: -4.5px;
-    font-size:xx-large;
+    width: 125px;
 }
 
 .nav-item{
@@ -35,10 +32,13 @@ body {
 h1 {
     color: white;
     margin-bottom: 40px;
+    font-family: Roboto;
 }
 
 p {
     color: lightgray;
+    font-family: Roboto;
+    font-weight: 900;
 }
 
 .button2 {
